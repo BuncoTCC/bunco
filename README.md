@@ -186,4 +186,4 @@ bunco/
 ## Autores
 - Matheus Cordeiro - site - [Matheus](https://github.com/CordeiroMatheus)
 - João Pedro - mobile e APIs - [JpP3dro](https://github.com/JpP3dro)
-- Gabriel Linhares - design e prototipação - [Gabriel](https://github.com/Linhares-Gab)
+- Gabriel Linhares - design e prototipação - [Gabriel](https://github.com/devlinhares)
